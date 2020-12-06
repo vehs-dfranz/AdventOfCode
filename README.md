@@ -1,3 +1,3 @@
 # AdventOfCode
 
-Giving a go at https://adventofcode.com/2020 
+Giving a go at https://adventofcode.com/2020 using tsql 
